@@ -1,0 +1,50 @@
+ELEMENTORUM LIBER 111. 181
+
+ad circulum ΑΒΓΔ adcidant rectae aliquot ΖΒ, ΖΓ,
+ΖΗ. dico, maximam esse ΖΑ, minimam autem ΖΔ,
+ceterarum autem esse ZB > ΖΓ et ΖΓ> ΖΗ.
+ducantur enim ΒΕ, ΓΕ, ΗΕ.
+Γ · et quoniam cuiusuis trianguli duo
+B latera reliquo maiora sunt [1, 20],
+crunt ΕΒ -Ι- ΕΖ > ΒΖ. scd
+A ΑΕ -- ΒΕ.
+quare A Z > BZ. rursus quoniam
+ΒΕ = ΓΕ, communis autem ZE,
+duae rectae ΒΕ, ΕΖ duabus ΓΕ,
+ΕΖ aequales sunt. uerum etiam L BEZ> ΓΕΖ.
+itaque ΒΖ > ΓΖ [1, 24]. eadem dc causa etiam
+ΓΖ > ΖΗ. “
+rursus quoniam H Z -Ι- ΖΕ > ΕΗ [1, 20], et
+EH = EA,
+erunt HZ ·†· ZE > EA. subtrahatur, quae communis
+est, EZ. itaque HZ> ZA.1) itaque ZA maxima
+est, ΖΔ autem minima, et ZB > ΖΓ, ΖΓ> ΖΗ.
+dico etiam, duas· solas aequales a puncto Z ad
+circulum ΑΒΓΔ adcidere in utraque parte rectae
+mim'mae ZA. construatur enim ad rectam EZ et
+
+punctum eius E angulo Η ΕΖ aequalis l, ΖΕΘ [1, 23],
+
+    
+
+,ἔνθ
+
+ 
+
+1) Hoc Euclides ita demonstrauit:
+HZ -Ι- ΖΕ -- ΕΔ 4— x.
+ΕΖ == EZ. ergo ΗΖ = ΖΛ-ι-ιο [κ. gam. 3]‚ h. e. HZ>ZA.
+
+ 
+
+δύο FV. 14. ἐστίν] PBF3 comp. p; ἔστί V. 15. ZH] HZ
+
+P. ἐστίν] PFp; ἐστι’ BV. 18. εἰσιν] PF; εἰσι BVp.
+
+19. λοιπῇ τῇ p. ΖΔ] supra m. 1 V. ἐστίν] PF3 ἐστί BVp.
+μέν] supra m. 1 F. 20. τῶν δ’ ἄλλων μείζων μὲν ἡ ΖΒ
+
+p. 21. τῆς] τῆ V. 22. ἴσαι] PF3 εὐθεῖαι ἴσαι BVp.
+
+23. ΑΒΓΔ] Δ add. m. 2 V. 24. ΖΛ] om. p.
+

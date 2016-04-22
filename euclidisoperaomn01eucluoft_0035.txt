@@ -1,0 +1,50 @@
+ELEMENTORUM LIBER I. 21
+
+V.
+
+In triangulis aequicruriis anguli ad basim positi
+inter se aequales sunt, et productis rectis aequalibus
+anguli sub basi positi inter se aequales erunt.
+
+sit triangulus aequicrurius ΑΒΓ habens AB =A Γ,
+et producantur ΑΒ , Α Γ in directum,
+ut fiant BA, ΓΕ. dioc, esse
+
+L ΑΒΓ = ΑΓΒ
+et L ΓΒΔ = ΒΓΕ.
+
+B Γ Sumatur enim in BA quoduis
+z Π punctum Z, et a maiore AE minori
+AZ aequalis abscindatur AH [prop.
+
+Δ Β ΠΙ], et ducantur ΖΓ, ΗΒ rectae.
+iam quoniam A Z = A H et AB = A Γ, duae rectae
+ZA, ΑΓ duabus HA, AB aequales sunt altera alteri3
+et angulum communem comprehendunt ZAH. itaque
+ZF= ΗΒ et Δ ΑΖΓ-τ ΑΗΒ, et reliqui anguli re-
+liquis aequales erunt alter alteri, sub quibus aequalia
+latera subtendunt [prop. IV]‚ L ΑΓΖ -- ΑΒΗ et L
+ΛΖΓΞ ΑΗΒ. et quoniam AZ = AH, quarum par-
+tes ΑΒ, ΑΓ aequaleS, erit B Z = ΓΗ [κ. ἔνν. 3]. sed
+. demonstratum est etiam ΖΓ = ΗΒ. itaque duae re-
+ctae BZ‚ ΖΓ duabus ΓΗ, ΗΒ aequales sunt altera
+alteri3 et L BZF= ΓΗΒ 'et basis eorum communis
+
+A
+
+ 
+
+<V. Simplicius in phys. fol. 14V. Boetius p. 380, 13-15,
+ubi sic fere scribendum: si triangulus aequalia latera habeat,
+qui ad eius basim an li sunt, aequalesalter alteri sunt, et
+aequalibus lineis [pro uotis] et sub basi eius anguli aequa-
+les utrimque erunt.
+
+PVp. 19. ἐστίν] PF, comp. ὃς ἐστί uulgo. 25. A—nte BZ
+ras. est unius litt. in V. 26. ΗΒ] ΒΗ V, corr. m. 2.
+δυσί] e corr. V.
+
+ 
+
+ 
+

@@ -1,0 +1,42 @@
+ 
+
+ELEMENTORUM LIBER 111. '175
+
+Ergo si in circulo recta aliqua per centrum ducta
+aliam rectam non per centrum ductam in duas partes
+aequales secat, etiam ad rectos angulos eam secat3 et
+si ad rectos angulos eam secat, etiam in duas partes
+aequales secat3 quod erat demonstrandum.
+
+IV.
+
+Si in circulo duae rectae inter se secant non per
+centrum ductae, in duas partes aequales inter se non
+
+secant. ‚
+Sit circulus ΑΒΓΔ et in eo duae
+Α rectae ΑΓ, ΒΔ non per centrum
+ductae inter se secent in Ε. dico,
+B eas in duas partes aequales inter se
+non secare.
+nam si fieri potest, in duas partes aequales inter
+se secent, ita ut sit ΑΕ -- ΕΓ et BE= EA, et su?
+matur centrum circuli ΑΒΓΔ [prop. I] ‚ et sit Z, et
+ducatur ZE. iam quoniam recta per centrum ducta
+ΖΕ aliam rectam non per centrum ductam A Γ in¹
+duas partes aequales secat, etiam ad rectos angulos
+eam secat [prop. III]. itaque L ZEA rectus est. rur-
+sus quom‘am recta ZE aliam rectam BA in duas
+partes aequales secat, etiam ad rectos angulos eam
+secat [id.]. itaque L ZEB rectus est. sed demonstra-
+tum est, etiam L ZEA rectum esse. quare
+L ZEA = ZEB,
+minor maiori3 quod fieri non potest. itaque rectae
+¹AF, BA in duas partes aequales inter se non secant.
+
+ 
+
+V; ἐπ’ F, corr. m. 23 om. B. 21. ΒΔ μὴ διὰ τοῦ κέντρου
+F, V m. 2. τέμνει] (alt.) PBVp; τεμεῖ F. 23. ἐλάσσων
+F. 24: ἐστίν] PBp3 om. ch.
+

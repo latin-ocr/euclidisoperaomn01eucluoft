@@ -1,0 +1,50 @@
+ELEMENTORUM LIBER 1. '99
+
+XLII.
+
+Dato triangulo aequale g'parallelogrammum constru-
+ere in dato angulo rectilineo,
+
+Sit datus triangulus ΑΒΓ, datus autem angulus
+rectilineus A. oportet igitur triangulo ΑΒΓ aequale
+parallelogrammum in angulo rectilineo A construere.
+
+secetur ΒΓ in duas partes aequales in E [prop.
+X]‚ et dueatur AE, et ad ΕΓ rectam et punctum in
+ea situm E angulo A aequalis construatur L ΓΕΖ
+[prop. XXH1]‚ et per A rectae ΕΓ parallela dueatur
+AH [prop. XXXI] ‚ per Γ autem rectae EZ parallela
+
+A A Ζ ff ducatur ΓΗ. itaque parallelo-
+Ὢ grammum est ΖΕΓΗ. et quo-
+
+niam ΒΕ --- ΕΓ, erit
+B Ε Γ Δ ΑΒΕ = A ΕΓ 3
+nam in aequalibus basibus sunt ΒΕ, ΕΓ et in iisdem
+parallelis ΒΓ, AH [prop. XXXVIIIJ. itaque
+ΑΒΓ = 2 ΑΕΓ.
+
+uerum etiam ΖΕΓΗ = 2 ΑΕΓ; nam basim eandem
+habent et in iisdem parallelis sunt [prop. XLI].
+quare ΖΕΓΗ =ABI'. et angulum ΓΕΖ dato angulo
+
+A, aequalem habet.
+Ergo dato triangulo ΑΒΓ aequale parallelogram-
+
+ 
+
+m. 13 ἴσῃ τῇ Bp, PV m. 2. 9. τεμκνέσθω p. κατὰ τὸ Ε
+δίχα F. καί] om. φ. 11. ΓΕ Ζ] ΖΕΓ F. 12. τῇ] om.
+F. ΕΓ] om. F; mutat. in ΒΓ m.2V. 13. EZ] ZE Bp,
+V m. 2. ΓΗ] litt. Γ in ras. .V. 14. ἐστίν PF. 15.
+ἔστί] ἐστίν Ρ, ἔσται F. εἰσιν P. 17. Post αὐταῖς F habet
+λοιπαῖς delet. punctis. ταῖς insert. m. 2 F. ΒΓ] corr.
+ex ΒΕΓ Ρ. 18. τρίγωνον] , V m. 2; om. Theon (BFbp,V
+m. 1). 19. ΖΕΓΗ] Γ in F dubium est. 20. ΑΕΓ]
+ΑΓΕ F. 21. ἐστιν αὐτῷ] mg. m. 1 P. 22. ἐστίν Ρ.
+
+23. ΓΕΖ ΓΕ e corr. m.2 F. 24. τῇ A] τῷ A F. l25.
+τῷ ΑΒΓ om. Β, mg. m. rec. F; τῷ corr. ex τό m. 1 b.
+
+7*
+

@@ -1,0 +1,42 @@
+ELEMENTORUM LIBER Ι. 33
+
+ΧΙ.
+
+Ad datam rectam a dato puncto in ea sito rectam
+perpendicularem erigere.
+
+Sit data recta AB, punctum autem datum in ea
+situm Γ. oportet igitur a Γ puncto rectae AB per-
+pendicularem rectam erigere.
+
+sumatur in ΑΓ quoduis punctum A, et ponatur
+
+Ζ ΓΕ -- ΓΛ [prop.II]‚ et in AE
+triangulus aequilaterus constru-
+atur ΖΔΕ· [prop. I] ‚ et duca-
+tur ΖΓ. dico, ad datam rectam
+
+Α BAB ¹a dato puncto in ea sito
+Δ 1⁷ Ῑ] Γ perpendicularem erectam esse
+
+rectam lineam ΖΓ.
+
+nam quoniam AP= ΓΕ et communis ΓΖ, duae
+rectae A Γ, ΓΖ duabus ΕΓ, ΓΖ aequales sunt altera
+alteri3 et basis AZ basi ZE aequalis est. itaque
+LAFZ = ΕΓΖ [prop.VIII]; et deinceps sunt positi.
+ubi autem recta super rectam lineam erecta angulos
+deinceps positos inter se aequales efficit, rectus est
+uterque angulus aequalis [def. 10]. itaque AI'Z, ΖΓΕ
+recti sunt.
+
+Ergo ad datam rectam AB a dato puncto in ea
+sito Γ perpendicularis recta linea ducta est ΓΖ; quod
+oportebat fieri.
+
+ 
+
+XI. Boetius p. 381, 4.
+
+Euclide u, odd. Heiberg et Menge. 3
+

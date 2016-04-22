@@ -1,0 +1,49 @@
+ELEMENTORUM LIBER 111. 227
+
+adplicato enim segmento ΑΕΒ ad segmentum ΓΖ Δ et
+posito A puncto in Γ, recta autem AB in ΓΛ, etiam
+Β punctum in A cadet, quia AB = ΓΔ. adplicata
+autem recta AB rectae ΓΛ etiam segmentum AEjB
+in ΓΖΔ cadet. nam si recta AB cum ΓΔ congruet,
+segmentum autem ΑΕΒ cum I'ZA non congruet,
+
+Ε aut intra id cadet aut extra1), aut
+Ξ excedet ut ΓΗΔ, et circulus circu-
+
+A „B lum in pluribus punctis quam duo-
+2 Π bus secabit3 quod fieri non potest
+
+Γ Δ [prop.X]. itaque recta AB cum ΓΔ
+
+congruente fieri non potest, quin etiam
+segmentum ΑΕΒ cum ΓΖΔ congruat. congruet igitur,
+et aequale ei erit [I κοιν. ἕνν. 8].
+
+Ergo similia segmenta circulorum in aequalibus
+rectis posita inter se aequalia sunt3 quod erat demon-
+strandum.
+
+XXV.
+Segmento circuli dato circulum supplere, cuius est
+segmentum.
+Sit datum segmentum circuli ΑΒΓ. oportet igitur
+segmenti ΑΒΓ circulum supplere, cuius est segmentum.
+
+ 
+
+1) Id quod ob prop. XXIII fieri non potest. et hoc ad-
+iicere debuit Euclidem sed non dubito, quin ipse ita scripserit,
+ut praebet cod. P. nam haec ipsa forma imperfecta Theoni
+ansam dedit emendationis parum felicis.
+
+ 
+
+τὰ Γ, Η, Δ Theon (BF Vp3 καί 111. 2 V3 ὁ e corr. p). ἐστίν
+Ρς 0111. BV; πάλιν F; ἐστὶ πάλιν p. 13. τό] τήν p. ΓΖ A}
+ΓΖ litt. in ras, V. Dein in FV add. τμῆμα 111. 2. adv
+V. 14. τὰ ἄρα] ἄρα τά F; ante ἄρα m. 2 add. τά. τῶν
+ἴσων p. 16. κζ F; corr. m. 2. 18. τὸ τμῆμα Fp. 19.
+τὸ Bpogs'v] om. B, m. 2 V. κύκλου τμῆμα Β. 21. τὸ τμῆ-
+
+15*
+

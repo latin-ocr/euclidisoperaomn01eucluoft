@@ -1,0 +1,48 @@
+ELEMENTORUM LIBER Ι. 115
+
+. in BA, ΛΓ. itaque quadratum lateris ΒΓ aequale est
+quadratis laterum BA, ΑΓ.
+
+Ergo in triangulis rect-angulis quadratum in latere
+sub recto angulo subtendenti constructum aequale est
+quadratis in lateribus rectum angulum comprehenden-
+tibus constructis; quod erat demonstrandum.
+
+    
+     
+
+f
+
+XLVIII.
+
+Si in triangulo quadratum unius‘ lateris aequale
+= est quadratis reliquorum duorum laterum trianguli, an-
+gulus reliquis duobus lateribus trianguli comprehensus
+j rectus est.
+ῗ nam in triangulo ΑΒΓ sit 3172 = BA2 -Ι- ΑΓ2.
+dico, L ΒΑΓ rectum esse.
+ducatur enim a puncto A ad rectam ΑΓ perpen-
+γ dicularis AA [prop. XI], et ponatur ΑΛ = BA, et
+ξι p dueatur ΔΓ. iam. quoniam AA·= AB,
+¹ erit1) etiam ΔΑ2 = AB2. commune ad-
+iiciatur AF2. itaque
+ΛΑ2 -l- AF2= BA2 -Ρ- ΑΓ2 [κ. ἔνν. 2].
+uerum ΔΓ2 = ΔΑ2 -†- AI'23 nam L ΔΑΓ
+rectus est [prop. XLVII]; et 31²2 = ΒΑ2
+Δ Α B÷AF23 hoc enim suppositum est. itaque
+
+ 
+
+1) Hoc ex definitione quadrati (22) sequitur.
+
+m. 1. ὅ. ἐστίν PF. γωνίαν] om. PBF. 12. ἐστιν]
+PFV, Proclus‚ comp. b3 ἔστι Bp. 15. Post πλευρῶν ras,
+5-6 litt. b. 19. ΔΓ] Δ in ras. b. ἐπεί] PBVb; ἐπεὶ
+οὖν Fp; καὶ ἐπεί Ρ m. rec. ἐστίν] comp. supra m.2 F.
+ΑΛ Ρ. 20. ἐστίν Ρ. τό] supra m. 1 b. AB] BA p.
+21. κοινή Β. 23. ἐστίν P. ΑΓ] om. φ. 24. ἐστίν Ρ.
+ΔΓ] ΔΓ τετράγωνον p. 25. ΓΑΔ P. BA] AB B. 26.
+ἐστίν Ρ. ὑποκειται φ, seq. ται m. 1.
+
+8*
+

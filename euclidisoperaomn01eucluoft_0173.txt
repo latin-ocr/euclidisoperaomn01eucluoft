@@ -1,0 +1,45 @@
+ELEMENTORUM LIBER 11. 159
+
+XIII.
+
+In triangulis acutiangulis quadratum lateris sub
+acuto angulo subtendentis quadratis laterum acutum
+angulum comprehendentium minus est duplo rectan-
+gulo comprehenso ab altero laterum acutum angulum
+comprehendentium, eo scilicet, in quod perpendicularis
+cadit, et recta a perpendiculari ad angulum acutum
+
+A intra abscisa.
+
+Sit triangulus acutiangulus ΑΒΓ acu-
+tum habens angulum ad Β positum, et
+ducatur ab A puncto ad ΒΓ perpendicu-
+laris AA. dico, esse
+
+Β Δ 1⁷ ΑΓΞ--ΓΒΞ-ι-ΒΛΞ-ι-2ΓΒΧΒΛ.
+nam quoniam recta ΓΒ utcunque secta est in A,
+erunt FB2 -Ι- ΒΔ2 = 2 ΓΒ >< ΒΔ -st- ΛΓ2 [prop. VII].
+commune adiiciatur AA2. itaque
+ΓΒ2 -ι- 13Λὲ -4- ΛΑ2 = 2 ΓΒ >< ΒΛ -ι- AA2 -ι- ΛΓΞ,
+sed ΑΒ2 = ΒΔ2 -1- AA23 nam angulus ad A positus
+rectus est [1‚ 47]. et AF2 = ΑΛ2 -l- AI'2 [I‚ 47]. ita-
+que ΓΒ2 -4- ΒΑ2 = AF2 -Ι- 2 ΓΒ >< ΒΛ. quare
+ΛΠ = ΓΝ -ι- BA2 ÷ 2ΓΒ ><ΒΛ.
+
+ 
+
+XIII. Pappus V p. 376, 21.
+
+τῆς] om. P. 13. ἔλασσον F. ἔστιν V. τῶν ἀπὸ τῶν]
+τῷ {md F; corr. m. 23 τῶν ἀπό Β. 14. περιεχόμενον φ.
+16. ΓΒ] in ras.FV‚'13P p. ἔτυχε Vp. 17. ἐστίν FV.
+
+19. ΔΓ] ΓΔ p. τετραγώνων φ. 21. ἐστίν FV. 22.
+
+περιεχομένων φ. 23. τῶν] add. m. 2 F. 24. ἴσον ἐστίν V
+
+et p (ἐστ ί). 26. ἴσον ἐστίν ch, p (ἐστί). τό] om. φ.
+
+26. ἐστίν V. 27. τῶν] om. P. 28. ἔλασσον F. ἐστιν V.
+Post BA ras. unius fere lin. F. ' 29. ΒΔ] ΒΑ φ.
+

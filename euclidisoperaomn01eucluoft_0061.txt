@@ -1,0 +1,46 @@
+ELEMENTORUM LIBER 1. 47
+XVIII.
+
+In quouis triangulo maius latus sub maiore angulo
+subssendit.
+· Sit enim triangulus ΑΒΓ habens A Γ> ΑΒ. dice,
+etiam esse L ΑΒΓ > ΒΓΑ.
+nam quonjam ΑΓ > ΑΒ, ponatur AA = AB
+A [prop. 11], et ducatur BA.
+
+et quoniam in triangulo ΒΓΔ
+
+Δ extrinsecus positus est LAAB,
+
+erit L ΑΔΒ> ΔΓΒ, quiin-
+
+B 1⁷ terior est et oppositus [prop.
+
+XVI} sed LAAB =ABA, quoniam etiam AB = AA
+[prop. V]. itaque etiam L‘AB A > ΑΓΒ. quare multo
+magis L ΑΒΓ > ΑΓΒ [κ. ἔνν. 8].
+
+Ergo in quouis triangulo maius latus sub maiore
+angulo subtendit3 quod erat demonstrandum.
+
+XIX.
+
+In quouis triangulo sub maiore angulo maius latus
+
+A subtendit.
+Sit ssriangulus ΑΒΓ habens
+B L ΑΒΓ > ΒΓΑ.
+dico, etiam esse ΑΓ> ΑΒ.
+nam si minue, auf, ΑΓ -- ΑΒ aut
+ΑΓ< ΑΒ. iam non est AF= ΑΒ. tum
+enim esser L ΑΒΓ = ΑΓΒ [prop. V];
+1⁷ uerum non est. itaque non est ΑΓ = A Β.
+neque uero ΑΓ < Α Β. izum enim esset LA Β Γ < ΑΓΒ
+
+ 
+
+XVIII. Boetius p. 381, 21. XIX. Boetius p. 381, 23.
+
+21. ΒΓΑ] corr. ex ΓΒΑ b. ἡ] in ras, 3 litt. m. 1 P.
+26. ἔστιν P.
+

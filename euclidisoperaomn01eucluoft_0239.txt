@@ -1,0 +1,46 @@
+ELEMENTORUM LIBER 111. 225
+
+aequales, similiter demonstrabimus, etiam
+L BAA -Ι- ΔΓΒ
+duobus rectis aequales esse.
+Ergo in quadrilateris in circulis positis anguli
+oppositi duobus rectis aequales sunt3 quod erat de-
+monstrandum.
+
+XXIII.
+In eadem recta duo segmenta circulorum similia
+et inaequalia in eandem partem construi nequeunt.
+nam si fieri potest, in eadem recta AB duo seg-
+Α menta circulorum similia et inaequalia in ean-
+dem partem construantur ΑΓΒ, ΑΛΒ, et edu-
+catur ΑΓΔ, et ducantur ΓΒ, ΔΒ.
+iam quoniam segmentum ΑΓΒ simile est
+segmento A ΔΒ, similia autem segmenta cir-
+culorum sunt, quae aequales angulos capiunt
+A [def. ll], erit l, ΑΓΒ = ΑΔΒ, exterior interiori3
+B quod fieri non potest [I, 16].
+
+Ergo in eadem recta duo segmenta circulorum si-
+milia et inaequalia in eandem partem construi neque-
+unt3 quod erat demonstrandum.
+
+XXIV.
+
+Similia segmenta circulorum in aequalibus rectis
+posita inter se aequalia sunt.
+nam in aequalibus rectis ΑΒ, ,ΓΔ similia seg-
+menta circulorum sint ΑΕΒ, ΓΖΔ. dico, esse
+ΑΕΒ = ΓΖ Α.
+
+ 
+
+ 
+
+ἴσας] seq. spatium 3⁰litt. F. ἐστίν] om. B. γωνία] m: 2
+V. 17. ἠ ἐντος τῃ ἐκτος p. ἐστίν] om. p. 24. γαρ]
+
+Ξηρῖα ἒ] 2 F. ΓΔ] Δ e corr. m. 1 F. 25. κύκλου φ.
+etv .
+
+, Euclides, edd. Hciberg et Menge. 15
+

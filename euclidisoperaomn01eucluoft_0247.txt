@@ -1,0 +1,40 @@
+ELEMENTORUM LmER 111. 233
+
+et angulus ad H positus angulo ad Θ posito aequalis
+est. itaque ΒΓ = EZ [I, 4]. et quoniam angulus acl
+A positus angulo ad A posito aequalis est, segmentum
+ΒΑΓ segmento EAZ simile est [def. 11]. et in
+aequalibus rectis posita sunt. segmenta autem si-
+milia in aequalibus rectis posita inter se aequalia
+sunt [prop. XXIV} itaque BAF= EAZ. uerum
+etiam totus circulus ΑΒΓ toti circulo AEZ aequalis
+est. quare qui relinquitur arcus ΒΚΓ arcui EA Z
+aequalis est.
+
+Ergo in aequalibus circulis aequales anguli in ae-
+qualibus arcubus consistunt‚ siue ad centra siue ad
+ambitus consistunt3 quod erat demonstrandum.
+
+XXVII.
+
+In aequalibus circulis anguli in aequalibus arcubus
+consistentes inter se aequales sunt, siue ad centra
+siue ad ambitus consistunt.
+
+nam in aequalibus circulis
+
+f* ἵρχ ΑΒΓ, A EZ in aequalibus
+By& ( W& arcubus ΒΓ, ΕΖ ad centra
+Q 14ζὰ Η, Θ anguli consistant ΒΗΓ,
+
+ΕΘΖ, ad ambitus autem
+ΒΑΓ, ΕΔΖ. dico, esse L BHF=E&Z, et
+L BAF= ΕΔΖ.
+
+niul-5⁰] in ras. m. 2 V. 8. τῇ] ἐστιν ἴση τῇ Ρ. ΕΛΖ] litt.
+ΛΖ 1n raa. V. 9. ἐστιν ἴση] om. P. 10. Ἐν] inter ε et ν
+1 litt. eras. V. 12. ὦσιν F. 14. κζ’] sie φ. 18. αἷσιν
+Ρ. 19. καὶ ἐπί F. 23. γωνία] Ρ; om. Theon (BFVp).
+ΕΘΖ] corr. ex EBZ m. rec. P; ΒΗΓ φ. 24. ἔστιν ἴση] P;
+om. Theon (BFVp).
+

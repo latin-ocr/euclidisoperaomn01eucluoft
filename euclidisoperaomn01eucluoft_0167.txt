@@ -1,0 +1,51 @@
+ELEMENTORUM LIBER 11. 153
+
+sumpta duplo maiora sunt quadrato dimidiae et qua-
+drato rectae ex dimidia et adiecta compositae3 quod
+erat demonstrandum.
+
+XI.
+
+Datam rectam ita secare, ut reetangulum tota et
+alterutra parte comprehensum quadrato reliquae partis
+aequale sit.
+
+Sit data recta ΛΒ. oportet igitur rectam AB ita
+secare, ut rectangulum tota et alterutra parte eom·
+prehensum quadrato reliquae partis aequale sit.
+
+construatur enim in AB quadratum ΑΒΔΓ [Ι, 46],
+et ΑΓ in ,duas partes aequales secetur in puncto E,
+
+fl et ducatur ΒΕ, et ΓΑ ad Z educatur,
+
+et ponatur EZ = BE, et construatur in
+A AZ quadratum ΖΘ [id.], et educatur ΗΘ
+’Β ad K. dieo, rectam AB ita sectam esse
+
+1¹ [Δ in Θ, ut faciat AB><1369= A&2‚
+
+nam quoniam reeta ΑΓ in duas partes aequales
+secta est in Ε, et ei adiecta est ZA, erit
+ΓΖ >< ZA -Ι- ΑΕ2 = EZ2 [prop. VI].
+sed EZ = ΕΒ. itaque ΓΖ >< ZA -Ι- ΑΕ2 -- EB2.
+
+ 
+
+XI. Boetius p. 386,15.
+
+ 
+
+ΑΒΓΔ Β, ΑΒ, insertis ΓΔ 111. 2 F, ΑΓΔΒ p. 17. ΖΘ]
+ΖΗΘΑ p3 in FV post Z et post Θ 1 litt. eras διήχθω]
+δι· supra m. 2 F. 20. ποιεῖν] PF, εἶναι Bp et post ras. 2
+litt. V. τῷ] mg. m. 2 p. 24. ἐστ ί] comp. supra m. 1 V.
+
+ἀπό] φ, seq. πο 111. 1. ΕΖ] in ras. F. 25. ΓΖ, ΖΑ]
+in ras. F. seq. ὀρθογώνιον φ, quod eum seq μετά in mg.
+hausit. μετά] ΡΒ et sine c'lubio F m. 13 περι εχό εν ον ὀρ-
+
+θογῶνιον μετ Vo'ch, et P 111.2. 26. απὸ τῆς] 0111.. ΑΕ
+τετραγώνου ch, F 111.2. ἐστιν V. ΕΒ] ΡΒ, τῆς ΕΒ F,
+τετραγώνῳ ad 111. 2· τῆς ΕΒ τετραγώνῳ Vp.
+

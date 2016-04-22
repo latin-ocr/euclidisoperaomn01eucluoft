@@ -1,0 +1,43 @@
+ELEMENTORUM mmm 111. 255
+
+gulo ad Γ posito, ergo rursus in AB segmentum circuli
+descriptum est ΑΕΒ, quod angulum capiat aequalem
+angulo ad Γ posito.
+
+iam uero angulus ad Γ positus
+obtusus sit, et ad rectam AB et
+punctum A ei aequalis construatur
+L Β Α Δ, ut in tertia figura factum
+est, εὴ ad AA perpendicularis du-
+catur AE, et rursus AB in Z in
+duas partes aequales secetur, εὴ ad
+AB perpendicularis ducatur ZH,
+et ducatur ΗΒ. εὴ quoniam rursus AZ = ΖΒ,
+εὴ ΖΗ communis est, duae rectae AZ, ZH duabus
+BZ, ZH aequales sunt3 et L AZH= BZH. itaque
+AH = BH [1, 4]. itaque circulus centro H et radio
+HA descriptus etiam per Β ueniet. cadat ut ΑΕΒ.
+εὴ quoniam ad diametrum AE in termino perpendi-
+
+ 
+
+cularis ducta est A A, recta A A circulum ΑΕΒ con·
+tingit [prop. XVI πόρ.]. εὴ ab A puncto contactus
+producta est ΑΒ. itaque L BAA angulo in alterno
+segmento circuli, ΑΘΒ, constructo aequalis est [prop.
+XXXII} sed L BAA angulo ad Γ posito aequalis est,
+quare etiam angulus in ΑΘΒ segmento positus angulo
+ad Γ posito aequalis est.
+
+Ergo in data recta ΑΒ segmentum circuli con-
+structum est ΑΘΒ, quod angulum angulo ad Fposito
+aequalem capiat3 quod oportebat fieri.
+
+ 
+
+in ras. m. 2 V. συνεσταμένῃ PF. ἄλλά Ρ. 20. ἐστί V.
+
+21. γωνία] om. V. ἐστίν Ρ. 22. ἄρα δοθείσης] PF;
+δοθείσης ἄρα BVp. A Β] in ras. FV. 23. δεχόμενον] corr.
+ex ἐχόμενον m. 1 P.
+

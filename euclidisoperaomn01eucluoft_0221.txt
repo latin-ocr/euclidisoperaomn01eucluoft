@@ -1,0 +1,44 @@
+ELEMENTORUM LIBER 111. 207
+
+XV.
+
+In circulo maxima est diametruS‚ ceterarum autem
+proxima quaeque centro remotiore maior est.
+⁸ Sit circulus ΑΒΓΔ, et diametrus eius sit AA,
+centrum autem Ε, et diametro A A propior sit ΒΓ,
+remotior autem ZH. dico, maximam esse AA, et
+ΒΓ > ΖΗ.
+ducantur enim a centro E ad ΒΓ, ΖΗ perpen-
+diculares ΕΘ, ΕΚ. et quoniam ΒΓ centro propior
+est, remotior autem ΖΗ, erit ΕΚ > ΕΘ [def. 4]. po·
+natur EA =Ec)‚ et per A ad ΕΚ perpendicularis
+ducta AM educatur ad N, et ducantur ΜΕ, ΕΝ,
+ΖΕ, ΕΗ. et quoniam ΕΘ = EA, erit
+, etiam ΒΓ-τ MN [prop. XIV]. rursus
+’ quoniam AE=EM etEA= ΕΝ, erit
+AA = ME -Ι- ΕΝ. sed
+ME -Ι- ΕΝ> ΜΝ [I‚ 20],
+et MN=B1''. itaque1) ΑΔ>ΒΓ. et
+quoniam duae rectae ΜΕ, ΕΝ duabus
+ΖΕ, ΕΗ aequales sunt, et
+L ΜΕΝ > ΖΕΗ, ·
+erit MN> ZH [Ι, 24]. sed demonstrandum est
+
+ 
+
+ 
+
+1) Cum ἄρα lin. 19 in deterrimo solo codice seruatum sit,
+coniecturae deberi uidetur; quare puto, uerba καὶ ἡ ΑΔ τῆς
+ΜΝ μείζων ἐστίν glossema antiquum esse. idem de uerbis
+καὶ ἡ ΒΓ τῆς ΖΗ μείζων ἐστίν p. 208, 1--2 iudico.
+
+ 
+
+ 
+
+loth} om. BVp. 20. τῆς] τῆι F. 21. ME] EM p.
+
+εἰσίν PF; εἰσί uulgo. 22. ἐστίν] om. P; comp. Fp; ἐστι
+BV. 23. ἀλλ’ F.
+

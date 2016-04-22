@@ -1,0 +1,48 @@
+ELEMENTORUM LIBER 1v. 287
+
+Sit datus circulus ΑΒΓΔ. oportet igitur in circulum
+
+ΑΒΓΔ quadratum inscribere.
+ducantur circuli ΑΒΓΔ duae diametri inter se
+
+ἱ perpendiculares AF, BA, et ducantur ΑΒ, ΒΓ, ΓΔ,
+t ΔΛ. et quoniam ΒΕ = EA (nam E cen-
+
+Α trum est), et EA communis est et per·
+
+s pendiculariS, erit AB= AA [1‚ 4]. ea-
+B dem de causa ΒΓ = AB et ΓΔ = AA.
+t s itaque quadrilaterum ΑΒΓΔ aequilate-
+
+1⁷ rum est. dico, idem rectangulum esse.
+
+ 
+
+1
+nam quoniam recta BA diametrus
+i est circuli ΑΒΓΔ, semicirculus est BA A. itaque
+ι ΑΒΑΔ rectus est [HI⁷ 31]. eadem de causa etiam
+ἱ singuli anguli ΑΒΓ, ΒΓΔ, ΓΔΑ recti sunt. itaque
+l. rectangulum est quadrilaterum ΑΒΓΔ. sed demon-
+stratum est, idem aequilaterum esse. itaque quadra-
+tum est [I def. 22]. et in circulum ΑΒΓΔ inscrip-
+tum est.
+
+Ergo in datum circulum quadratum inscriptum est
+ΑΒΓΔ; quod oportebat fieri.
+
+VII.
+
+Circum datum circulum quadratum circumscribere.
+Sit datus circulus ΑΒΓΔ. oportet igitur circum
+ΑΒΓΔ circulum quadratum circum-scribere.
+
+ducantur circuli ΑΒΓΔ duae diametri inter se per-
+pendiculares A Γ, ΒΔ. et per A, Β, Γ, Δ puncta du-
+
+ 
+
+· θέντα] ΑΒΓΔ ΒΡ; δοθέντα ἄρα V. Post κύκλον add. τὸν
+ΑΒΓΔ V et F m. 2. 19. ποιῆσαι] in ras. p. 24. τετρά-
+πλευρον Ρ. 25. γὰρ τοῦ Bp. δύο] om. p. 26. αἱ] om, P.
+
